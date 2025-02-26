@@ -61,8 +61,8 @@ Here are some of the tools and technologies I’m currently using:
 ## 🧑‍🤝‍🧑 Connect With Me
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harshpatil13/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-- 📸 Main Instagram: [@harsh_patil1302](https://www.instagram.com/harsh_patil1302/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-- 📸 Photography Instagram: [@harshclicks1302](https://www.instagram.com/harshclicks1302/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+- 📸 Main ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white): [@harsh_patil1302](https://www.instagram.com/harsh_patil1302/)
+- 📸 Photography ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white): [@harshclicks1302](https://www.instagram.com/harshclicks1302/)
 - 🌐 Personal Website/Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ## 🔥 Recent Activity
