@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Guten-Morgen1302&color=brightgreen)
 
-## 👨‍💻 About Me
+## 🇮🇳 About Me
 
 - 🔭 I’m currently working on **[Your Current Project]**. 🚀
 - 🌱 I’m currently learning **Go**, **Rust**, and **Swift**.
@@ -10,6 +10,7 @@
 - 🤔 I’m open to new **ideas**, **projects**, and **technologies**.
 - 📫 How to reach me: **harshabhaypatil@gmail.com**.
 - 💬 Ask me about **[Favorite Technology/Tool]**.
+- 🌍 I’m based in **India** 🇮🇳.
 
 ## 🔧 Tech Stack
 
@@ -59,7 +60,9 @@ Here are some of the tools and technologies I’m currently using:
 
 ## 🧑‍🤝‍🧑 Connect With Me
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harshpatil13/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harshpatil13/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+- 📸 Main Instagram: [@harsh_patil1302](https://www.instagram.com/harsh_patil1302/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+- 📸 Photography Instagram: [@harshclicks1302](https://www.instagram.com/harshclicks1302/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
 - 🌐 Personal Website/Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ## 🔥 Recent Activity
@@ -81,8 +84,8 @@ Here are a few of my public projects:
 ## 🎯 Fun Facts
 
 - I’ve been coding for **[3] years**.
-- I’m a fan of **[ gaming, photography, etc.]**.
-- My favorite quote: *"[Inspirational Quote]"*.
+- I’m a fan of **[gaming, photography, etc.]**.
+- My favorite quote: *"[In a world full of trends, I want to remain classic]"*.
 
 ## ⚡ Fun & Interactive Widgets
 
