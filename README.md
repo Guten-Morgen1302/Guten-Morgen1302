@@ -74,7 +74,7 @@ Here are some of the tools and technologies I’m currently using:
 
 Here are a few of my public projects:
 
-- [**Project 1**](https://github.com/Guten-Morgen1302/project1) - A description of what this project does.
+- [**Project 1**]([https://github.com/Guten-Morgen1302/project1](https://github.com/Guten-Morgen1302/weather-app)) - A responsive web app that shows real-time weather information using OpenWeatherMap API, with features like weather forecasts and unit toggle.
 - [**Project 2**](https://github.com/Guten-Morgen1302/project2) - A description of what this project does.
 - [**Project 3**](https://github.com/Guten-Morgen1302/project3) - A description of what this project does.
 
