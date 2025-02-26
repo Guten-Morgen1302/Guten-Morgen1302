@@ -81,7 +81,7 @@ Here are a few of my public projects:
 ## 🎯 Fun Facts
 
 - I’ve been coding for **[3] years**.
-- I’m a fan of **[Some Hobby, e.g., gaming, photography, etc.]**.
+- I’m a fan of **[ gaming, photography, etc.]**.
 - My favorite quote: *"[Inspirational Quote]"*.
 
 ## ⚡ Fun & Interactive Widgets
