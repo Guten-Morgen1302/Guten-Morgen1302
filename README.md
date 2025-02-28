@@ -4,7 +4,6 @@
 
 ## 🇮🇳 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**. 🚀
 - 🌱 I’m currently learning **Go**, **Rust**, and **Swift**.
 - 👯 I’m looking to collaborate on **[open-source project/idea]**.
 - 🤔 I’m open to new **ideas**, **projects**, and **technologies**.
