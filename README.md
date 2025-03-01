@@ -62,7 +62,7 @@ Here are some of the tools and technologies I’m currently using:
 - 📫 Reach me on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white): [@harshpatil13](https://www.linkedin.com/in/harshpatil13/)
 - 📸 Main ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white): [@harsh_patil1302](https://www.instagram.com/harsh_patil1302/)
 - 📸 Photography ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white): [@harshclicks1302](https://www.instagram.com/harshclicks1302/)
-- 🌐 Personal Website/Portfolio: [harsh.dev](https://harsh-patil-portfolio.vercel.app/))
+- 🌐 Personal Website/Portfolio: [harsh.dev](https://harsh-patil-portfolio.vercel.app/)
 
 ## 🔥 Recent Activity
 
