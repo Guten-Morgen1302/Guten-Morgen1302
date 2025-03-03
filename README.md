@@ -4,7 +4,7 @@
  
 ## 🇮🇳 About Me
 
-- 🌱 I’m currently learning **Go**, **Rust**, and **Swift**. .
+- 🌱 I’m currently learning **Go**, **Rust**, and **Swift**.
 - 👯 I’m looking to collaborate on **[open-source project/idea]**.
 - 🤔 I’m open to new **ideas**, **projects**, and **technologies**.
 - 📫 How to reach me: **harshabhaypatil@gmail.com**.
