@@ -77,9 +77,8 @@ Here are some of the tools and technologies I’m currently using:
 Here are a few of my public projects:
 
 - [**Project 1**](https://github.com/Guten-Morgen1302/weather-app) - A responsive web app that shows real-time weather information using OpenWeatherMap API, with features like weather forecasts and unit toggle.
-- [**Project 2**](https://github.com/Guten-Morgen1302/project2) - A description of what this project does.
-- [**Project 3**](https://github.com/Guten-Morgen1302/project3) - A description of what this project does.
-
+- [**Project 2**](https://github.com/Guten-Morgen1302/Social-Media-Dashboard) - The SocialSync Dashboard is a web application for managing multiple social media accounts in one place. It offers features like account management, post scheduling, engagement analytics, and performance tracking across platforms such as Facebook, Twitter, Instagram, and LinkedIn.
+- [**Project 3**](https://github.com/Guten-Morgen1302/FitnessHub) - FitTrack is a web-based application designed to help users track their fitness journey, including workouts, nutrition, progress, and more. With an intuitive user interface, this platform aims to make fitness tracking simple and motivating.
 ## 🎯 Fun Facts
 
 - I’ve been coding for **[3] years**.
