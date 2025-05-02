@@ -81,7 +81,7 @@ Here are a few of my public projects:
 - [**Project 3**](https://github.com/Guten-Morgen1302/FitnessHub) - FitTrack is a web-based application designed to help users track their fitness journey, including workouts, nutrition, progress, and more. With an intuitive user interface, this platform aims to make fitness tracking simple and motivating.
 - [**Project 4**](https://github.com/Guten-Morgen1302/food-delivery) - Foodie Paradise is a platform for food lovers to discover delicious recipes, share culinary experiences, and explore food reviews. It’s your go-to destination for all things food!
 
-[**More Porjects**](https://github.com/Guten-Morgen1302?tab=repositories) - All my projects are available here.
+[**More Projects**](https://github.com/Guten-Morgen1302?tab=repositories) - All my projects are available here.
 ## 🎯 Fun Facts
 
 - I’ve been coding for **[3] years**.
