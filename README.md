@@ -1,82 +1,189 @@
-# Hi there, I'm Harsh Patil! 👋
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Guten-Morgen1302&color=brightgreen) 
- 
+# 👋 Hi, I'm Harsh Patil  
+<img width="100%" height="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="profile" />
+
+<!-- Typing animation -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;Learning+Go%2C+Rust%2C+Swift;Welcome+to+My+Digital+Universe!"
+  />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+---
+
 ## 🇮🇳 About Me
 
-- 🌱 I’m currently learning **Go**, **Rust**, and **Swift**.
-- 👯 I’m looking to collaborate on **[open-source project/idea]**.
-- 🤔 I’m open to new **ideas**, **projects**, and **technologies**.
-- 📫 How to reach me: **harshabhaypatil@gmail.com**.
-- 💬 Ask me about **[Favorite Technology/Tool]**.
-- 🌍 I’m based in **India** 🇮🇳.
+<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🔧 Tech Stack
+- 🌱 Currently learning **Go**, **Rust**, **Swift**
+- 👯 Looking to collaborate on **open-source projects**
+- 🤔 Open to new ideas, technologies & innovations
+- 💬 Ask me about **JavaScript, React, Python, TypeScript**
+- 📫 Contact me: **harshabhaypatil@gmail.com**
+- 🌍 Based in **India 🇮🇳**
+- ⭐ Coding for **3 years**
+- 🎮 Hobbies: **Gaming**, **Photography**
+- 🧠 Quote: *"In a world full of trends, I want to remain classic"*
 
-Here are some of the tools and technologies I’m currently using:
+---
 
-- **Languages**: 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-- **Frontend**: 
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+---
 
-- **Backend**: 
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+# 🛠️ Tech Stack (Languages & Tools)
+### (Styled like your friend's, but with YOUR tech stack)
 
-- **Databases**: 
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  - ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=black)
+<p align="left">
 
-- **Tools & Platforms**: 
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  - ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<!-- Languages -->
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
 
-- **Other**: 
-  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-  - ![Prototyping](https://img.shields.io/badge/Prototyping-000000?style=flat-square&logo=adobe-xd&logoColor=white)  
-  - ![User Research](https://img.shields.io/badge/User%20Research-00BFFF?style=flat-square&logo=google&logoColor=white)
+<!-- Frontend -->
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 
-## 💻 GitHub Stats
+<!-- Backend -->
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 
-![Harsh's Stats](https://github-readme-stats.vercel.app/api?username=Guten-Morgen1302&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
+<!-- Databases -->
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black"/></a>
 
-## 🧑‍🤝‍🧑 Connect With Me
+<!-- Tools -->
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 
-- 📫 Reach me on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white): [@harshpatil13](https://www.linkedin.com/in/harshpatil13/)
-- 📸 Main ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white): [@harsh_patil1302](https://www.instagram.com/harsh_patil1302/)
-- 📸 Photography ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white): [@harshclicks1302](https://www.instagram.com/harshclicks1302/)
-- 🌐 Personal Website/Portfolio: [harsh.dev](https://harsh-patil-portfolio.vercel.app/)
+<!-- Design -->
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/User%20Research-00BFFF?style=for-the-badge&logo=google&logoColor=white"/></a>
 
-## 🌱 My GitHub Projects
+</p>
 
-Here are a few of my public projects:
+---
 
-- [**Project 1**](https://github.com/Guten-Morgen1302/weather-app) - A responsive web app that shows real-time weather information using OpenWeatherMap API, with features like weather forecasts and unit toggle.
-- [**Project 2**](https://github.com/Guten-Morgen1302/Social-Media-Dashboard) - The SocialSync Dashboard is a web application for managing multiple social media accounts in one place. It offers features like account management, post scheduling, engagement analytics, and performance tracking across platforms such as Facebook, Twitter, Instagram, and LinkedIn.
-- [**Project 3**](https://github.com/Guten-Morgen1302/FitnessHub) - FitTrack is a web-based application designed to help users track their fitness journey, including workouts, nutrition, progress, and more. With an intuitive user interface, this platform aims to make fitness tracking simple and motivating.
-- [**Project 4**](https://github.com/Guten-Morgen1302/food-delivery) - Foodie Paradise is a platform for food lovers to discover delicious recipes, share culinary experiences, and explore food reviews. It’s your go-to destination for all things food!
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+</div>
 
-[**More Projects**](https://github.com/Guten-Morgen1302?tab=repositories) - All my projects are available here.
-## 🎯 Fun Facts
+---
 
-- I’ve been coding for **[3] years**.
-- I’m a fan of **[gaming, photography, etc.]**.
-- My favorite quote: *"[In a world full of trends, I want to remain classic]"*.
+# 📊 GitHub Analytics & Statistics
 
-## ⚡ Fun & Interactive Widgets
+<div align="center">
 
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guten-Morgen1302&theme=dark)](https://git.io/streak-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guten-Morgen1302&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guten-Morgen1302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-## 🎉 Thanks for visiting my profile! 🚀
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guten-Morgen1302&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guten-Morgen1302&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<!-- FULL-YEAR CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guten-Morgen1302&theme=tokyo-night&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+---
+
+# 🎖️ Achievements & Badges
+
+<div align="center">
+
+<!-- Replace username for Holopin if you create one -->
+[![@Harsh Patil's Holopin board](https://holopin.io/api/user/board?user=gutenmorgen1302)](https://holopin.io/@gutenmorgen1302)
+
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Guten-Morgen1302&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Guten-Morgen1302">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshpatil13/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/harsh_patil1302/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/harshclicks1302/">
+<img src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://harsh-patil-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Guten-Morgen1302&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing!;Always+open+to+collaborate!"/>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
