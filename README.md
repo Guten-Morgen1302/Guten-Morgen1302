@@ -1,68 +1,81 @@
-# <p align="center">Hi 👋, I'm Harsh Patil</p>
+# Hi there, I'm Harsh Patil! 👋  
+![Profile Views](https://komarev.com/ghpvc/?username=Guten-Morgen1302&color=brightgreen)
 
-<p align="center">
-<code style="color:#00FF00;">Welcome to my GitHub terminal...</code> 👾
-</p>
+## 🇮🇳 About Me
+- 🌱 I’m currently learning Go, Rust, and Swift.
+- 👯 I’m looking to collaborate on open-source project/idea.
+- 🤔 I’m open to new ideas, projects, and technologies.
+- 📫 How to reach me: harshabhaypatil@gmail.com
+- 💬 Ask me about your favorite technology/tool.
+- 🌍 I’m based in India 🇮🇳
 
----
+## 🔧 Tech Stack
+Here are some of the tools and technologies I’m currently using:
 
-## 🖥️ Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-## 🏆 Badges & Achievements
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=black)
 
-<p align="center">
-[![Holopin Board](https://holopin.me/gutenmorgen1302)](https://www.holopin.io/@gutenmorgen1302#badges)
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
+### Other
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-000000?style=flat-square&logo=adobe-xd&logoColor=white)
+![User Research](https://img.shields.io/badge/User%20Research-00BFFF?style=flat-square&logo=google&logoColor=white)
 
-## 📊 GitHub Analytics
+## 💻 GitHub Stats
+![Harsh's Stats](https://github-readme-stats.vercel.app/api?username=Guten-Morgen1302&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gutenmorgen1302&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
+## 🧑‍🤝‍🧑 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/harshpatil13/
+- Instagram (Main): https://www.instagram.com/harsh_patil1302/
+- Instagram (Photography): https://www.instagram.com/harshclicks1302/
+- Portfolio: https://harsh-patil-portfolio.vercel.app/
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutenmorgen1302&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
+## 🌱 My GitHub Projects
+- Project 1 — Weather App  
+  https://github.com/Guten-Morgen1302/weather-app  
 
----
+- Project 2 — Social Media Dashboard  
+  https://github.com/Guten-Morgen1302/Social-Media-Dashboard  
 
-## 💻 Contribution Graph
+- Project 3 — FitnessHub  
+  https://github.com/Guten-Morgen1302/FitnessHub  
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=gutenmorgen1302&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+- Project 4 — Food Delivery  
+  https://github.com/Guten-Morgen1302/food-delivery  
 
----
+More Projects:  
+https://github.com/Guten-Morgen1302?tab=repositories
 
-### 👾 About Me
+## 🎯 Fun Facts
+- I’ve been coding for 3 years.
+- I’m a fan of gaming, photography, etc.
+- Favorite quote: "In a world full of trends, I want to remain classic."
 
-<p style="color:#00FF00;">
-- Obsessed with minimalistic, hacker-terminal aesthetics  
-- Always learning, always experimenting  
-- "Hacking the matrix" one line of code at a time 🖤
-</p>
+## ⚡ Fun & Interactive Widgets
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guten-Morgen1302&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guten-Morgen1302&layout=compact&theme=dark)
 
----
-
-<pre style="color:#00FF00;">
-⚡ Welcome to my hacker-terminal corner of GitHub.
-Keep it green. Keep it clean.
-</pre>
+## 🎉 Thanks for visiting my profile! 🚀
