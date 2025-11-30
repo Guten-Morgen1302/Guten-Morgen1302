@@ -31,8 +31,8 @@ const harsh = {
     openTo: "New ideas, technologies, and cool projects",
     askMeAbout: ["AI/ML", "Full Stack Dev", "UI/UX Design", "Photography"],
     reachMe: "harshabhaypatil@gmail.com",
-    funFact: "I turn coffee ☕ into code 💻 and bugs 🐛 into features ✨",
-    hobbies: ["Gaming 🎮", "Photography 📸", "Coding 💻"]
+    funFact: "I turn coffee into code and bugs into features",
+    hobbies: ["Gaming", "Photography", "Coding"]
 };
 ```
 
@@ -174,14 +174,13 @@ const harsh = {
 ## 🎯 Fun Facts
 
 <div align="center">
-```yaml
-coding_years: 4+
-passionate_about: ["AI/ML", "Full Stack", "UI/UX Design", "Photography"]
-currently_vibing_to: "Building production AI at scale"
-favorite_quote: "In a world full of trends, I want to remain classic."
-life_motto: "Code. Create. Innovate. Repeat. 🔁"
-coffee_consumed: "Infinite ☕"
-```
+
+**🎮 Coding Years:** 4+  
+**💡 Passionate About:** AI/ML • Full Stack • UI/UX Design • Photography  
+**🚀 Currently Vibing To:** Building production AI at scale  
+**💬 Favorite Quote:** "In a world full of trends, I want to remain classic."  
+**⚡ Life Motto:** Code. Create. Innovate. Repeat.  
+**☕ Coffee Consumed:** Infinite
 
 </div>
 
