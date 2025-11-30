@@ -167,9 +167,9 @@
 </div>
 
 <div align="center">
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Production+AI+at+Scale;Open+Source+Enthusiast+%F0%9F%9A%80;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
-  
+
   <p>
     <a href="https://linkedin.com/in/harshpatil13"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://harshdev3d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -177,8 +177,8 @@
     <a href="https://instagram.com/harsh_patil1302"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Guten-Morgen1302&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=Guten-Morgen1302&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+
 </div>
 
 <br/>
@@ -198,7 +198,7 @@ const harsh = {
     funFact: "I turn coffee ☕ into code 💻 and bugs 🐛 into features ✨",
     hobbies: ["Gaming 🎮", "Photography 📸", "Coding 💻"]
 };
-```
+
 
 <br/>
 
