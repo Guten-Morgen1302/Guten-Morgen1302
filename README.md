@@ -127,10 +127,10 @@ const harsh = {
 |---------|-------------|------------|-------|
 | **🎓 CampusPlacements AI** | AI-powered platform with interview simulator & resume screener | React, OpenAI, BERT, MediaPipe | [Repo](https://github.com/Guten-Morgen1302/CampusPlacements) • [Live](https://campusplacements.vercel.app) |
 | **🤖 Sports AI Chatbot** | Production RAG chatbot for event queries | React, OpenAI, Firebase | [Live](https://sportscom-chatbot.vercel.app/) |
-| **🛡️ Deepfake Detector** | Real-time AI face detection system | TensorFlow.js, FastAPI, CNN | [Repo](https://github.com/Guten-Morgen1302/Deepfake-Detection-System) • [Live](https://deepfake-detector.vercel.app) |
-| **💻 Code Review AI** | Automated PR review assistant | OpenAI, GitHub API, Redis | [Repo](https://github.com/Guten-Morgen1302/AI-Code-Review-Assistant) • [Live](https://codereview-ai.vercel.app) |
+| **🛡️ Deepfake Detector** | Real-time AI face detection system | TensorFlow.js, FastAPI, CNN | [Repo](https://github.com/Guten-Morgen1302/Deepfake-Detection-System) • [Live](undermaintainance) |
+| **💻 Code Review AI** | Automated PR review assistant | OpenAI, GitHub API, Redis | [Repo](https://github.com/Guten-Morgen1302/AI-Code-Review-Assistant) • [Live](undermaintainance) |
 | **💰 Smart Money Tracker** | Crypto analytics with ML predictions | Python, LSTM, WebSockets | [Repo](https://github.com/Guten-Morgen1302/Smart-Money-Tracker-AI) • [Live](https://smart-money-tracker-ai.vercel.app) |
-| **👋 Sign Language AI** | Real-time ASL translator | TensorFlow.js, MediaPipe | [Repo](https://github.com/Guten-Morgen1302/AI-Sign-Language-Translator-) • [Live](https://signlang-ai.vercel.app) |
+| **👋 Sign Language AI** | Real-time ASL translator | TensorFlow.js, MediaPipe | [Repo](https://github.com/Guten-Morgen1302/AI-Sign-Language-Translator-) • [Live](undermaintainance) |
 
 [**View All Projects →**](https://github.com/Guten-Morgen1302?tab=repositories)
 
